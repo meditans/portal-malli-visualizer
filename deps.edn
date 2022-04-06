@@ -1,0 +1,3 @@
+{:deps
+ {djblue/portal {:mvn/version "0.22.1"}
+  com.github.metosin/malli {:sha "d69e06326662c675a40095c7c72ca80af8a8d282"}}}
